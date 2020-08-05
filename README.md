@@ -3,13 +3,13 @@
 
 # Hi, I'm Tsega :man:
 
-Learning | Software engineer | Network Programmer | Hacker :robot:. (In progress)
+Problem Solver | Software engineer | Network Programmer | Hacker :robot:. (In progress)
 
 Diamond School Student. :school:
 
 ## About me 
 
-:heart: Drawing | :black_heart: Hip-Hop | :blue_heart: Programming
+:heart: Video-games | :black_heart: Hip-Hop | :blue_heart: Programming
 
 - :earth_americas: I'm from Adiss Ababa - Ethiopia
 - :video_game: I like to play video games
