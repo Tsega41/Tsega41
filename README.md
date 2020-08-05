@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://giphy.com/gifs/a24-moonlight-barry-jenkins-3oz8xTmX0sd5FjqrYc">
+<img align="right" width="300" height="300" src="https://giphy.com/embed/3oz8xTmX0sd5FjqrYc">
 
 
 # Hi, I'm Tsega :hi:
