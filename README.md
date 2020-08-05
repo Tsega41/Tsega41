@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://giphy.com/embed/3oz8xTmX0sd5FjqrYc">
+<img align="right" width="300" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw20tRRF-zc08iNMaqBEuVDm&ust=1596722986164000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj9nuaehOsCFQAAAAAdAAAAABAD">
 
 
 # Hi, I'm Tsega :hi:
