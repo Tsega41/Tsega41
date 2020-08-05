@@ -1,7 +1,7 @@
-<img align="right" width="400" height="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRf0-R0QREsDsZCRzotGcevOjP2G23ev3XDMw&usqp=CAU">
+<img align="right" width="300" height="300" src="https://giphy.com/gifs/a24-moonlight-barry-jenkins-3oz8xTmX0sd5FjqrYc">
 
 
-# Hi, I'm Tsega :man:
+# Hi, I'm Tsega :hi:
 
 Problem Solver | Software engineer | Network Programmer | Hacker :robot:. (In progress)
 
