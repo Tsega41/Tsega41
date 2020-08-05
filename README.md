@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallhtaccess.info%2F25-gif-images-related-to-programming%2F&psig=AOvVaw20tRRF-zc08iNMaqBEuVDm&ust=1596722986164000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMj9nuaehOsCFQAAAAAdAAAAABAD">
+<img align="right" width="300" height="300" src="https://cdn.computercareers.org/wp-content/uploads/be-a-Programmer.jpg">
 
 
 # Hi, I'm Tsega :hand:
@@ -7,7 +7,7 @@ Problem Solver | Software engineer | Network Programmer | Hacker :robot:. (In pr
 
 Diamond School Student. :school:
 
-## About me 
+ 
 
 :heart: Video-games | :black_heart: Hip-Hop | :blue_heart: Programming
 
