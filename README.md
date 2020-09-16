@@ -3,7 +3,7 @@
 
 # Hi, I'm Tsega :hand:
 
-Problem Solver | Software engineer | Network Programmer | Web Devoloper :web:. (In progress)
+Problem Solver | Software engineer | Network Programmer | Web Devoloper. (In progress)
 
 Diamond School Student. :school:
 
